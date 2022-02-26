@@ -7,7 +7,6 @@ import random
 from random import randint
 from tkinter import messagebox
 import os
-from cryptography.fernet import Fernet
 import subprocess
 
 
